@@ -1,6 +1,6 @@
 # Parallel Post-Processing Interface for HDF5 Files from the Flash Code
-Erik Proano
----
+Erik Proano 07/30/2019
+___
 ## Post Module
 ### getFileName
 Returns an array containing all the file names based on the case name and the initial and final file indexes which are required as input arguments by this function
